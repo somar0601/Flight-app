@@ -1,8 +1,7 @@
 # Flight-app
-This is an app to explore thousands of flights in Illinois. It allows users to compare number of flights, departures, arrivals and delays based on their distances, cities, airlines, and time
+This is an app to explore thousands of flights in the United States. It allows users to compare the number of flights, departures, arrivals and delays based on their distances, cities, airlines, and time. 
 
 
-The original application was made by myself, Pedro Borges, Megan Hauck, and Namaswi Chandarana for UIC's Spring 2018 CS 424, Visualization and Visual Analytics, and Professor Andy Johnson.
 
 Run time may be slow, as the app was meant to be run on the Visualization Lab server 
 
@@ -20,4 +19,10 @@ Part 1:
 
 Part 2:
 https://streamable.com/cni5v
+
+# Credit & Acknowledgements
+It was originally made by myself, Pedro Borges, Megan Hauck, and Namaswi Chandarana.  The intended audience was our classmates of UIC's Spring 2018 class: CS 424, Visualization and Visual Analytics.  My contributions are in the following:
+
+1.	“Chicago Flights” tab: The section that investigates details about flights involving Chicago airports.  I created everything except the “rain cancellations” portion
+2.	“USA Demostic Flights” tab:  The section that investigate flights nationally. My main contribution was to the “monthly heat maps” and “weekly heat maps”, which examine delays across particular months and days of the weeks.
 
