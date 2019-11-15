@@ -14,4 +14,10 @@ This layout and appearance of the app has been edited from the original by Shoai
 Original app Source code: https://github.com/sadupk/learning-to-fly
 
 
+# App demo
+
+Part 1:
+
+Part 2:
+https://streamable.com/cni5v
 
