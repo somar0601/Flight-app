@@ -14,3 +14,5 @@ This layout and appearance of the app has been edited from the original by Shoai
 Original app Source code: https://github.com/sadupk/learning-to-fly
 
 
+
+<video src="Flight_app_USA.mp4" width="320" height="200" controls preload></video>
