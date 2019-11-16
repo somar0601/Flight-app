@@ -15,10 +15,9 @@ Original app Source code: https://github.com/sadupk/learning-to-fly
 
 # App demo
 
-Part 1:
+Part 1 (Chicago Flights): https://streamable.com/sd02e
 
-Part 2:
-https://streamable.com/cni5v
+Part 2 (National Flights): https://streamable.com/cni5v
 
 # Credit & Acknowledgements
 It was originally made by myself, Pedro Borges, Megan Hauck, and Namaswi Chandarana.  The intended audience was our classmates of UIC's Spring 2018 class: CS 424, Visualization and Visual Analytics.  My contributions are in the following:
