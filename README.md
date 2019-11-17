@@ -13,13 +13,13 @@ This layout and appearance of the app has been edited from the original by Shoai
 Original app Source code: https://github.com/sadupk/learning-to-fly
 
 
-# English App Video-demo
+# English: App Video-demo
 
 Part 1 (Chicago Flights): https://streamable.com/sd02e
 
 Part 2 (National Flights): https://streamable.com/cni5v
 
-# Español demonstraciòn de video
+# Español: Video de demonstraciòn de app.
 
 Part 1 (Aviones de Chicago): 
 
