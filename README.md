@@ -20,7 +20,7 @@ Part 1 (Chicago Flights): https://streamable.com/sd02e
 Part 2 (National Flights): https://streamable.com/cni5v
 
 # Español: Video de demonstraciòn de app.
-Los siguientes vidoes son grabaciones de una presentación informal que le di a un periodista peruano por skype.
+Los siguientes vidoes son grabaciones de una presentación informal que le di a un periodista peruana por skype.
 
 Part 1 (Primera parte de aviones de Chicago): https://streamable.com/1wum3
 
