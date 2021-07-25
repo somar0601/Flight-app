@@ -15,7 +15,7 @@ Original app Source code: https://github.com/sadupk/learning-to-fly
 
 # English: App Video-demo
 
-Part 1 (Chicago Flights): https://streamable.com/sd02e
+Part 1 (Chicago Flights): https://www.youtube.com/watch?v=cqB6F4DwMBk
 
 Part 2 (National Flights): https://www.youtube.com/watch?v=gBj-mt-Ks3E
 
